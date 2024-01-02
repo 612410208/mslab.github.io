@@ -1,1 +1,35 @@
-測試 github pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的網頁</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            color: #007bff;
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>歡迎來到我的網頁！</h1>
+
+    <p>這是一個簡單的 HTML 文件示例。您可以根據自己的需求進行修改和擴展。</p>
+
+    <ul>
+        <li><strong>HTML</strong> - 超文本標記語言</li>
+        <li><strong>CSS</strong> - 層疊樣式表</li>
+        <li><strong>JavaScript</strong> - 網頁互動性語言</li>
+    </ul>
+
+    <p>感謝您的訪問！</p>
+
+</body>
+</html>
